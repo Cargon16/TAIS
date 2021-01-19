@@ -1,0 +1,20 @@
+﻿  Source.cpp
+D:\Documentos\Universidad\TAIS\Ejercicios TAIS\ExamenEj1-15-16-Septiembre\ExamenEj1-15-16-Septiembre\PriorityQueue.h(39,2): warning C4018: '<': no coinciden signed/unsigned
+D:\Documentos\Universidad\TAIS\Ejercicios TAIS\ExamenEj1-15-16-Septiembre\ExamenEj1-15-16-Septiembre\PriorityQueue.h(37): message : al compilar la función del miembro clase plantilla "PriorityQueue<Arista<int>,std::less<T>>::PriorityQueue(const std::vector<Arista<int>,std::allocator<Arista<int>>> &,Comparator)"
+          with
+          [
+              T=Arista<int>,
+              Comparator=std::less<Arista<int>>
+          ]
+D:\Documentos\Universidad\TAIS\Ejercicios TAIS\ExamenEj1-15-16-Septiembre\ExamenEj1-15-16-Septiembre\Source.cpp(29): message : Vea la referencia a la creación de una instancia de la función plantilla "PriorityQueue<Arista<int>,std::less<T>>::PriorityQueue(const std::vector<Arista<int>,std::allocator<Arista<int>>> &,Comparator)" que se está compilando
+          with
+          [
+              T=Arista<int>,
+              Comparator=std::less<Arista<int>>
+          ]
+D:\Documentos\Universidad\TAIS\Ejercicios TAIS\ExamenEj1-15-16-Septiembre\ExamenEj1-15-16-Septiembre\Source.cpp(29): message : Vea la referencia a la creación de una instancia de clase plantilla "PriorityQueue<Arista<int>,std::less<T>>" que se está compilando
+          with
+          [
+              T=Arista<int>
+          ]
+  ExamenEj1-15-16-Septiembre.vcxproj -> D:\Documentos\Universidad\TAIS\Ejercicios TAIS\ExamenEj1-15-16-Septiembre\Debug\ExamenEj1-15-16-Septiembre.exe

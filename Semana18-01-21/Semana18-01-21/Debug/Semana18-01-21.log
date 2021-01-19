@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Documentos\Universidad\TAIS\Ejercicios TAIS\Semana18-01-21\Semana18-01-21\Source.cpp(38,14): warning C4018: '<': no coinciden signed/unsigned
+D:\Documentos\Universidad\TAIS\Ejercicios TAIS\Semana18-01-21\Semana18-01-21\Source.cpp(44,11): warning C4018: '<': no coinciden signed/unsigned
+  Semana18-01-21.vcxproj -> D:\Documentos\Universidad\TAIS\Ejercicios TAIS\Semana18-01-21\Debug\Semana18-01-21.exe
