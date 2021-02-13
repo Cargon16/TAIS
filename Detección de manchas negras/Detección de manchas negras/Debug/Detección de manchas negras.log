@@ -1,0 +1,7 @@
+﻿  Source.cpp
+D:\Documentos\Universidad\TAIS\Ejercicios TAIS\Detección de manchas negras\Detección de manchas negras\Source.cpp(41,27): warning C4018: '<': no coinciden signed/unsigned
+D:\Documentos\Universidad\TAIS\Ejercicios TAIS\Detección de manchas negras\Detección de manchas negras\Source.cpp(41,52): warning C4018: '<': no coinciden signed/unsigned
+D:\Documentos\Universidad\TAIS\Ejercicios TAIS\Detección de manchas negras\Detección de manchas negras\Source.cpp(52,27): warning C4018: '<': no coinciden signed/unsigned
+D:\Documentos\Universidad\TAIS\Ejercicios TAIS\Detección de manchas negras\Detección de manchas negras\Source.cpp(53,31): warning C4018: '<': no coinciden signed/unsigned
+D:\Documentos\Universidad\TAIS\Ejercicios TAIS\Detección de manchas negras\Detección de manchas negras\Source.cpp(77,23): warning C4018: '<': no coinciden signed/unsigned
+  Detección de manchas negras.vcxproj -> D:\Documentos\Universidad\TAIS\Ejercicios TAIS\Detección de manchas negras\Debug\Detección de manchas negras.exe

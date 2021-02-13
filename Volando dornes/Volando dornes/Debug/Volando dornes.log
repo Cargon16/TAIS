@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\Documentos\Universidad\TAIS\Ejercicios TAIS\Volando dornes\Volando dornes\Source.cpp(67,27): warning C4018: '<': no coinciden signed/unsigned
+D:\Documentos\Universidad\TAIS\Ejercicios TAIS\Volando dornes\Volando dornes\Source.cpp(69,27): warning C4018: '<': no coinciden signed/unsigned
+D:\Documentos\Universidad\TAIS\Ejercicios TAIS\Volando dornes\Volando dornes\Source.cpp(77,23): warning C4018: '<': no coinciden signed/unsigned
+  Volando dornes.vcxproj -> D:\Documentos\Universidad\TAIS\Ejercicios TAIS\Volando dornes\Debug\Volando dornes.exe

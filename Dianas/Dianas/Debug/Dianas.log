@@ -1,0 +1,6 @@
+﻿  Source.cpp
+D:\Documentos\Universidad\TAIS\Ejercicios TAIS\Dianas\Dianas\Source.cpp(39,23): warning C4018: '<=': no coinciden signed/unsigned
+D:\Documentos\Universidad\TAIS\Ejercicios TAIS\Dianas\Dianas\Source.cpp(56,23): warning C4018: '<=': no coinciden signed/unsigned
+D:\Documentos\Universidad\TAIS\Ejercicios TAIS\Dianas\Dianas\Source.cpp(73,23): warning C4018: '<=': no coinciden signed/unsigned
+D:\Documentos\Universidad\TAIS\Ejercicios TAIS\Dianas\Dianas\Source.cpp(90,23): warning C4018: '<=': no coinciden signed/unsigned
+  Dianas.vcxproj -> D:\Documentos\Universidad\TAIS\Ejercicios TAIS\Dianas\Debug\Dianas.exe
